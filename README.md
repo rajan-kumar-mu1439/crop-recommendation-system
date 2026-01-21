@@ -95,4 +95,4 @@ Role: Machine Learning Enthusiast
 
 Email: rajankumarmu1439@gmail.com
 
-LinkedIn: linkedin.com/in/rajan-kumar-mu1439
+LinkedIn: https://www.linkedin.com/in/rajan-kumar-mu1439/
